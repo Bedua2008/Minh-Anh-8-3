@@ -36,7 +36,7 @@ const songs = [
   {
   title: "Hơn cả yêu",
   cover: "style/sound/Anh (3).jpg",
-  src: "style/sound/Lỡ Say Bye Là Bye.mp3",
+  src: "style/sound/Hơn cả yêu.mp3",
 },
 ];
 
@@ -508,6 +508,7 @@ if (resetLockBtn) {
     window.location.reload();
   });
 }
+
 
 
 
